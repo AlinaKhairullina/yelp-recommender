@@ -22,7 +22,6 @@ class EASE:
 
         self.items = np.array(items)
 
-        # Используем все оценки от 1 до 5
         rows = df["user_id"].map(self.user_to_idx).to_numpy()
         cols = df["business_id"].map(self.item_to_idx).to_numpy()
         ratings = df["stars"].to_numpy(dtype=np.float64)
