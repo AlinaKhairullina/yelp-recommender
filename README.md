@@ -15,7 +15,7 @@ python -m venv venv
 ```
 
 ```bash
-source recsys_venv/bin/activate
+source venv/bin/activate
 ```
 
 ```bash
