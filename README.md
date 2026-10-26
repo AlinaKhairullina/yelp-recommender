@@ -1,5 +1,7 @@
 Хайруллина Алина Рустамовна
+
 Название датасета: Yelp Dataset
+
 Ссылка на датасет: `https://www.kaggle.com/datasets/yelp-dataset/yelp-dataset/data?select=yelp_academic_dataset_user.json`
 
 В работе использовались файлы `review.json`, `business.json`, `user.json`
